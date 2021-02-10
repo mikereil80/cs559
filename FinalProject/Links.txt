@@ -1,0 +1,18 @@
+Machine Learning Projects Links:
+https://elitedatascience.com/machine-learning-projects-for-beginners
+
+Twitter Data Mining:
+https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
+
+Baby Machine Learning:
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+
+Project Ideas:
+https://data-flair.training/blogs/machine-learning-project-ideas/
+
+Iris Flower example:
+https://medium.com/gft-engineering/start-to-learn-machine-learning-with-the-iris-flower-classification-challenge-4859a920e5e3
+
+https://towardsdatascience.com/exploring-classifiers-with-python-scikit-learn-iris-dataset-2bcb490d2e1b
+
+https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
